@@ -1,0 +1,13 @@
+body {
+    background-color:grey
+}
+
+li{
+    color:black
+}
+p{
+   color:white 
+}
+.center{
+    text-align:center;
+}
